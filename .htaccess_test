@@ -1,0 +1,6 @@
+RewriteEngine On 
+RewriteRule ^login?$ login.php   [NC,L]
+RewriteRule ^add-detail?$ add-detail.php   [NC,L]
+RewriteRule ^page-4?$ page-4.php   [NC,L]
+RewriteRule ^scheduled-job?$ scheduled-job.php   [NC,L]
+RewriteRule ^log-file?$ log-file.php   [NC,L]
